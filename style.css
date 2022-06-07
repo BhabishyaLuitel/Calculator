@@ -1,0 +1,65 @@
+#title {
+    margin-bottom: 10px;
+    text-align: center;
+    width: 297px;
+    color: rgb(0, 0, 0);
+    border: solid black 2px;
+    font-size: xx-large;
+    background-color: rgb(48, 107, 114);
+    font-family: monospace
+}
+
+input[type="button"] {
+    background-color: rgb(140, 140, 140);
+    color: rgb(0, 0, 0);
+    border: black 2px;
+    width: 100%;
+    align-items: center;
+    height: 50px;
+    font-size: medium;
+    border-radius: 9px;
+}
+
+input[type="text"] {
+    background-color: rgb(163, 163, 163);
+    width: 98%;
+    color: rgb(0, 0, 0);
+    height: 59px;
+    font-size: x-large;
+}
+
+body {
+    background-color: rgb(143, 144, 145);
+}
+
+p {
+    font-family: cursive;
+    text-align: end;
+    margin-top: 200px;
+    color: rgb(1, 1, 26)
+}
+
+#mainCal {
+    border-radius: 10px;
+    align-content: center;
+    margin-right: 500px;
+    padding-inline-start: 40%;
+    padding-top: 10%;
+}
+
+table {
+    background-color: rgb(82, 85, 84);
+    height: 300px;
+    width: 300px;
+    border-radius: 7px;
+}
+
+#c {
+    background-color: rgb(48, 107, 114);
+    color: white;
+    font-size: larger;
+    height: 65px;
+    width: 100%;
+    border-radius: 0px;
+    border-style: solid;
+}
